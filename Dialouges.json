@@ -1,0 +1,84 @@
+{
+    "intents": [
+      {
+        "tag":"vacation",
+        "patterns": ["How many vacation days do I have left this year?"],
+        "responses": ["To check your remaining vacation days, please provide me with your employee ID or the name under which you are registered."]      },
+      {
+        "tag":"health policy",
+        "patterns": ["Can you help me understand the company's health insurance policy?"],
+        "responses": ["Of course! Our health insurance policy covers a range of medical services, including hospitalization, doctor visits, and prescription medications. Do you have any specific questions about the policy?"
+]      },
+      {
+        "tag":"deposit information",
+        "patterns": ["How can I update my direct deposit information?"],
+        "responses":[ "To update your direct deposit information, you'll need to fill out a new form provided by our HR department. You can request the form from them directly or check the employee portal for any available online options."
+]      },
+      {
+        "tag":"expense report",
+        "patterns": ["What are the steps to submit an expense report?"],
+        "responses": ["To submit an expense report, you need to gather all the necessary receipts and supporting documents. Then, complete the expense report form available on the employee portal and attach the relevant files. Finally, submit the report to your manager for approval."
+]      },
+      {
+        "tag":"deadline saving plan",
+        "patterns": ["When is the deadline to enroll in the retirement savings plan?"],
+        "responses": ["The deadline for enrolling in the retirement savings plan is typically the end of the open enrollment period, which varies each year. I recommend checking with our HR department or referring to the company-wide communication regarding retirement plan enrollment for the most accurate information."
+]      },
+     {
+        "tag":"request personal emergency",
+        "patterns": ["How do I request time off for a personal emergency?"],
+        "responses":[ "If you have a personal emergency and need time off, please reach out to your manager or supervisor immediately. They will guide you through the process and assist with any necessary arrangements."
+]     },
+     {
+        "tag":"office hour on holiday",
+        "patterns": ["What are the office hours during holidays?"],
+        "responses":[ "The office hours during holidays may vary. It's best to refer to the company's holiday schedule or check for any internal communications regarding office hours during holidays. Is there a specific holiday you would like me to check?"
+]    },
+     {
+        "tag":"benefit package",
+        "patterns": ["Can you provide information about our employee benefits package?"],
+        "responses":[" Certainly! Our employee benefits package includes health insurance, retirement savings plans, paid time off, and various other perks. If you have specific questions about any particular benefits, feel free to ask!"
+]     },
+     {
+        "tag":"update information",
+        "patterns":["How can I update my personal information, such as my address and phone number?"],
+        "responses": ["To update your personal information, including your address and phone number, please contact the HR department. They will provide you with the necessary forms or instructions to make the changes."     
+]     },
+     {
+        "tag":"requesting reimbursement",
+        "patterns": ["What is the process for requesting reimbursement for business-related expenses?"],
+        "responses": ["To request reimbursement for business-related expenses, you need to complete an expense reimbursement form, attach the relevant receipts, and submit it to your manager or the finance department. They will review your request and process the reimbursement accordingly."  
+]     },
+     {
+        "tag":"access pay stubs tax documents",
+        "patterns": ["How can I access my pay stubs and tax documents?"],
+        "responses":[ "You can access your pay stubs and tax documents through the employee self-service portal. If you're unsure how to access the portal or encounter any issues, please reach out to the HR department for assistance."
+]     },
+     {
+        "tag":"trouble log in",
+        "patterns": ["I'm having trouble logging into my employee account. What should I do?"],
+        "responses": ["If you're unable to log into your employee account, I recommend resetting your password. You can do this by clicking on the 'Forgot Password' link on the login page. If you continue to experience issues, please contact the IT department for further assistance."
+ ]   },
+     {
+        "tag":"requesting leave",
+        "patterns":[ "What is the process for requesting a leave of absence?"],
+        "responses": ["To request a leave of absence, you'll need to submit a formal request to your manager or HR department. The request should include the reason for the leave, the desired duration, and any supporting documentation if applicable. They will guide you through the process and provide any necessary forms."
+]     },
+     {
+        "tag":"update preferences",
+        "patterns":[ "How can I update my training and development preferences?"],
+        "responses": ["To update your training and development preferences, you can access the employee learning portal. There, you will find options to customize your preferences, browse available courses, and track your progress. If you need further assistance, please contact the learning and development department."
+ ]    },
+     {
+        "tag":" code of conduct",
+        "patterns": ["Can you provide information about our company's code of conduct?"],
+        "responses":[ "Certainly! Our company's code of conduct outlines the ethical and professional standards expected of all employees. It covers topics such as integrity, respect, confidentiality, and compliance. You can find a copy of the code of conduct on the employee portal or request a physical copy from the HR department."        
+ ]    },
+     {
+        "tag":"requesting performance review",
+        "patterns": ["How can I request a performance review or provide feedback?"],
+        "responses":[ "To request a performance review or provide feedback, you can initiate a conversation with your manager. Express your interest in discussing your performance or provide constructive feedback. They will schedule a suitable time for a performance review meeting or guide you on the feedback submission process."        
+]     }
+   ]
+  }
+  
